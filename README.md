@@ -22,7 +22,7 @@ As in 61A, the correctness of a program is important. In CS 61B, we're concerned
 
 ### Labs
 
-- [Lab 1: Intro to Java & Git]()
+- [Lab 1: Intro to Java & Git](./labs/lab01/)
     - [Solution]()
 
 ### Projects
