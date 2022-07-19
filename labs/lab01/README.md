@@ -10,7 +10,42 @@ Future labs will allow for partners, but for this lab everyone needs to set up t
 
 # Table of Contents
 
-
+- [A. Terminal Basics](#a-terminal-basics)
+    - [Text Editor](#text-editor)
+    - [Terminal Installation (Windows)](#terminal-installation-windows)
+    - [Essential Terminal Commands](#essential-terminal-commands)
+- [B. Instructional Account Setup](#b-instructional-account-setup)
+    - [Obtaining an Instructional Account](#obtaining-an-instructional-account)
+    - [Accessing Remotely](#accessing-remotely)
+    - [Registering and Updating Password](#registering-and-updating-password)
+    - [Setting Up Git Repo on Instructional Machines](#setting-up-git-repo-on-instructional-machines)
+- [C. Personal Computer Setup](#c-personal-computer-setup)
+    - [Windows Setup](#windows-setup)
+    - [macOS Setup](#macos-setup)
+    - [Unix / Linux Setup](#unix--linux-setup)
+    - [Test Run](#test-run)
+    - [Setting Up Git Repo on Local Computer](#setting-up-git-repo-on-local-computer)
+- [D. Java Compilation & Development](#d-java-compilation-and-development)
+    - [Java and Compilation](#java-and-compilation)
+    - [Why Compilation?](#why-compilation)
+    - [Compiling Java Programs](#compiling-java-programs)
+    - [Running Java Programs](#running-java-programs)
+- [E. Writing Java Programs](#e-writing-java-programs)
+    - [Java is Object-Oriented](#java-is-object-oriented)
+    - [Format of a Java Program](#format-of-a-java-program)
+    - [Comments in Java](#format-of-comments-in-java)
+- [F. Git and First Assignment](#f-using-git-and-first-assignment)
+    - [Git Basics](#git-basics)
+    - [CS61B Git Setup](#cs61b-git-setup)
+    - [General Git Workflow: Receiving Assignments](#general-git-workflow-receving-assignments)
+    - [Java Assignment: Leap Year](#java-assignment-leap-year)
+    - [General Git Workflow: Saving Your Work](#general-git-workflow-saving-your-work)
+    - [Testing Leap Year Locally](#testing-leap-year-locally)
+    - [Testing Leap Year with Unit Tests](#testing-leap-year-with-unit-tests)
+    - [General Git Workflow: Submitting](#general-git-workflow-submitting)
+- [G. Submission and 61B Tools Setup](#g-submission-and-61b-tools-setup)
+    - [Beacon Setup](#beacon-setup)
+- [H. Common Errors Doc](#h-common-errors-doc)
 
 # A. Terminal Basics
 
